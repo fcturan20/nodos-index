@@ -139,7 +139,7 @@
   },
   {
     "name": "nos.webcam",
-    "url": "https://raw.githubusercontent.com/fcturan20/index/main/releases/nos.webcam.json",
+    "url": "https://raw.githubusercontent.com/fcturan20/nodos-index/refs/heads/main/releases/nos.webcam.json",
     "vendor": "Nodos",
     "type": "Plugin"
   },
