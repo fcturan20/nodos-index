@@ -2,6 +2,30 @@
   "name": "nos.animation",
   "releases": [
     {
+      "version": "1.0.1",
+      "url": "https://github.com/fcturan20/nodos-index/releases/download/nos.animation-1.0.1-x86_64-windows/nos.animation-1.0.1-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 41,
+        "minor": 0
+      },
+      "release_date": "2026-02-24T19:11:35.423528900+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.animation",
+          "version": "3.0"
+        }
+      ],
+      "category": "Animation",
+      "platform": "x86_64-windows",
+      "node_names": [
+        "nos.animation.Animate",
+        "nos.animation.AnimationCurve",
+        "nos.animation.HasCustomInterpolator",
+        "nos.animation.Interpolate",
+        "nos.animation.InterpolateWithCustomInterpolator"
+      ]
+    },
+    {
       "version": "0.11.0.b953",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.animation-0.11.0.b953-x86_64-windows/nos.animation-0.11.0.b953-x86_64-windows.zip",
       "plugin_api_version": {
