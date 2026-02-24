@@ -349,7 +349,7 @@
   },
   {
     "name": "nos.animation",
-    "url": "https://raw.githubusercontent.com/fcturan20/index/main/releases/nos.animation.json",
+    "url": "https://raw.githubusercontent.com/fcturan20/nodos-index/main/releases/nos.animation.json",
     "vendor": "Nodos",
     "type": "Plugin"
   },
